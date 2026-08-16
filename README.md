@@ -1,4 +1,4 @@
-# Kanya Portfolio
+# Kanya Portfolio Template
 
 One-page responsive portfolio in a modern black-and-pink visual style. Built with plain HTML, CSS, and JavaScript; no build step is required.
 
