@@ -23,3 +23,8 @@ Open `index.html` directly, or serve the folder with any static web server.
 5. Select the `main` branch and `/ (root)`, then save.
 
 The site is static and works without npm or a build command.
+
+## That's it!
+
+Feel free to send me pictures of your portfolio website once it's up and running. Would love to see them! 
+https://www.linkedin.com/in/kanya-chanawong/
